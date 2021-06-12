@@ -1,0 +1,11 @@
+.main-table {
+    width: 90%;
+    margin: auto;
+    background: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.edit-btn {
+    cursor: pointer;
+}
